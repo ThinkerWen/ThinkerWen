@@ -7,10 +7,10 @@
 - ✨ My WeChat official account: 夜寒信息
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raptor-wxw&theme=github"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raptor-wxw&theme=github_dark"
   style="display: inline; width: 220px"
 />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raptor-wxw&theme=github"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raptor-wxw&theme=github_dark"
   style="display: inline; width: 220px"
 />
