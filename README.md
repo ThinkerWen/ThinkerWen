@@ -8,4 +8,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+profile;I+wish+you+happiness+every+day.)](https://git.io/typing-svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raptor-wxw&show_icons=true&theme=onedark" alt="logo" height="160" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=ThinkerWen&show_icons=true&theme=onedark" alt="logo" height="160" style="margin: 5px; margin-bottom: 20px;" />
