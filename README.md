@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wen
-- 🛰 My WeChat: EurekaNomi
+- 🛰 My WeChat: Rem_wife
 - 📸 My Instgram: <a href="https://www.instagram.com/jason.wxw/" >Jason.wxw</a>
 - 🌈 My Tiktok: <a href="https://www.tiktok.com/@friday.wang/" >DesignerWang</a>
 - 📬 My E-mail: wxw126mail@126.com
