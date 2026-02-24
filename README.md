@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Wen
-- 🛰 My WeChat: Rem_wife
+- 🛰 My WeChat: EurekaNomi
 - 📸 My Instgram: <a href="https://www.instagram.com/jason.wxw/" >Jason.wxw</a>
 - 🌈 My Tiktok: <a href="https://www.tiktok.com/@friday.wang/" >DesignerWang</a>
-- 📬 My E-mail: wxw126mail@126.com
+- 📬 My E-mail: admin@404fix.cn
 - 🌎 My WebSite：[https://www.404fix.cn](https://www.404fix.cn/)
 - ✨ My WeChat official account: 夜寒信息
 
